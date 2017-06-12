@@ -1,0 +1,58 @@
+{
+    "users": [
+        {
+            "id": 1234123,
+            "user_name": "The Writer",
+            "first_name": "Tamer",
+            "last_name": "Ameen",
+            "email": "user1@email.com",
+            "articles": [
+                12, 589, 124
+            ]
+        }
+    ],
+    "articles": [
+        {
+            "id": 12,
+            "title": "Welcome :)",
+            "content": "lorem ipsum test text",
+            "views": 142,
+            "likes": 12,
+            "shares": 2,
+            "comments": [
+                {
+                    "_id": 6372,
+                    "message": "I love this topic :3 love"
+                }
+            ]
+        },
+        {
+            "id": 589,
+            "title": "Welcome & Hi",
+            "content": "lorem ipsum test text lorem ipsum test text",
+            "views": 12,
+            "likes": 1,
+            "shares": 1,
+            "comments": [
+                {
+                    "_id": 88389,
+                    "message": "I love this topic with love again"
+                }
+            ]
+        },
+        {
+            "id": 124,
+            "title": "Welcome & Hi :)",
+            "content": "lorem ipsum test text test again :3 with love again too",
+            "views": 87,
+            "likes": 11,
+            "shares": 0,
+            "comments": [
+                {
+                    "_id": 73883,
+                    "message": "I love this topic"
+                }
+            ]
+        }
+    ]
+}

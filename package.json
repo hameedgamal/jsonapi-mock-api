@@ -1,0 +1,13 @@
+{
+  "name": "jsonapi-mock-api",
+  "version": "1.0.0",
+  "description": "Mock RESTful API with Jsonapi Standard using json-server project",
+  "main": "server.js",
+  "repository": "https://github.com/hameedgamal/jsonapi-mock-api.git",
+  "author": "hameed gamal <hameed.osman89@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "json-api-serializer": "^1.8.0",
+    "json-server": "^0.10.1"
+  }
+}
