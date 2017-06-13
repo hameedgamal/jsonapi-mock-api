@@ -15,7 +15,7 @@ $ yarn install
 ## usage
 this project is built on top of [json-server](https://github.com/typicode/json-server) & [json-api-serializer](https://github.com/danivek/json-api-serializer), you can refer to those projects documentation to find out how you can customize it for your need.
 
-`server.js` file is the main file that contain the setup following [this section](https://github.com/typicode/json-server#module) of json-server documentation
+`server.js` file is the main file that contains the setup following [this section](https://github.com/typicode/json-server#module) of json-server documentation
 
 ### example how you can register your resources types
 Following [json-api-serializer](https://github.com/danivek/json-api-serializer) doumentation
