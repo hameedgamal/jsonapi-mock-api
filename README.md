@@ -43,3 +43,7 @@ Serializer.register('comment', {
 ```
 
 `db.json` that file contains a json object that represent the dummy database
+
+## License
+
+[MIT](https://github.com/danivek/json-api-serializer/blob/master/LICENSE)
