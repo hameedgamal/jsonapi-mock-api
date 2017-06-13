@@ -116,4 +116,4 @@ Serializer.register('comment', {
 
 ## License
 
-[MIT](https://github.com/danivek/json-api-serializer/blob/master/LICENSE)
+[MIT](https://github.com/hameedgamal/jsonapi-mock-api/blob/master/LICENSE)
