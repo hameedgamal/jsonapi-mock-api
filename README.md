@@ -1,5 +1,5 @@
 # Mock RESTful Api server
-A RESTful Api following JSON:api (A SPECIFICATION FOR BUILDING APIS IN JSON) using Node.js
+REST Api following [json api](http://jsonapi.org/) (A SPECIFICATION FOR BUILDING APIS IN JSON) using Node.js
 
 ## Built using
 - Node.js
